@@ -1,4 +1,4 @@
-# AAI-531-ProjectGroup-7
+# 
 
 Abstract: This project focuses on developing a data-driven recommender system that personalizes iPhone model suggestions based on user preferences and market trends. By leveraging machine learning techniques, NLP,  agentic  AI, transformers, including collaborative and content-based filtering, the system will provide accurate recommendations while maintaining fairness and transparency. The research will emphasize ethical considerations such as data privacy, bias mitigation, and explainability. Techniques like SHAP and LIME will be integrated to enhance interpretability, ensuring users understand how recommendations are generated. The goal is to develop a fair, explainable, and consumer-focused AI-driven recommendation system.
 
